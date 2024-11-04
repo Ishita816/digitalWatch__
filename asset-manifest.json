@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ishita816/digitalWatch__/static/css/main.c135865d.css",
+    "main.js": "/Ishita816/digitalWatch__/static/js/main.553847f6.js",
+    "static/js/453.ed3810f9.chunk.js": "/Ishita816/digitalWatch__/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Ishita816/digitalWatch__/index.html",
+    "main.c135865d.css.map": "/Ishita816/digitalWatch__/static/css/main.c135865d.css.map",
+    "main.553847f6.js.map": "/Ishita816/digitalWatch__/static/js/main.553847f6.js.map",
+    "453.ed3810f9.chunk.js.map": "/Ishita816/digitalWatch__/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c135865d.css",
+    "static/js/main.553847f6.js"
+  ]
+}
